@@ -1,9 +1,3 @@
-# alphat-new-generation
-Forked version of LineAlphat JS #DEV #22/12/2017 #18PM
-<br>LineAlphat -> https://github.com/alfathdirk/LineAlphatJS<br><br>Status: Very Good
-
-<hr>
-
 Installing Node.js
 ------
 - `pkg install nodejs-current` or `yum install nodejs-current`
@@ -45,15 +39,6 @@ How to activate AutoLike feature ?
 - `3. Change into this " LINE.aLike() " (without quotes)`
 - ![2](https://image.prntscr.com/image/UVbSbNoAT66b3u6ubPfQLw.png)
 - `4. DONE`
-
-Author
-------
-[@alfathdirk](https://instagram.com/alfathdirk) (LINE ALPHAT JS)<br>
-[@GoogleX](https://fb.me/m.rakha.f) (LINE ALPHAT-FORK)
-
-Contact Me / Need Help ?
-------
-[@LINE](http://line.me/ti/p/MB6mnZWbu_) (GoogleX)
 
 FAQ (Frequently Asked Questions)
 ------
